@@ -12,7 +12,7 @@ Teknoloji yolculuğuma bir yıl önce Python ile başladım. Karmaşık sistemle
 ---
 
 ### 🚀 Öne Çıkan Projem
-#### [Air Defense System Interface]((https://github.com/gLobalDev0/air-defence-system-interface))
+#### [Air Defense System Interface](https://github.com/gLobalDev0/air-defence-system-interface)
 Python ile geliştirilen, stratejik veri görselleştirme ve operasyonel kontrol odaklı bir arayüz çalışması. (Yapım aşamasında 🚧)
 
 ---
