@@ -31,7 +31,7 @@ Python ile geliştirilen bir arayüz çalışması. (Yapım aşamasında 🚧)
 
 ---
 ##**OpenCv ve YOLO hedef tespit**
-###[Hedef tespiti](https://github.com/gLobalDev0/OpenCV-IHA-)
+####[Hedef tespiti](https://github.com/gLobalDev0/OpenCV-IHA-)
 (Tamamlanmak uzere bir proje)
 
 ### 🛠️ Yetkinlikler & Araçlar
