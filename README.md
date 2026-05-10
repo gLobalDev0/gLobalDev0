@@ -30,10 +30,11 @@ Python ile geliştirilen bir arayüz çalışması. (Yapım aşamasında 🚧)
 (Gelişim aşamasında 🚧)
 
 ---
-##**OpenCv ve YOLO hedef tespit**
-####[Hedef tespiti](https://github.com/gLobalDev0/OpenCV-IHA-)
+## OpenCv ve YOLO hedef tespit
+#### [Hedef tespiti](https://github.com/gLobalDev0/OpenCV-IHA-)
 (Tamamlanmak uzere bir proje)
 
+---
 ### 🛠️ Yetkinlikler & Araçlar
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
