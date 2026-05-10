@@ -34,10 +34,14 @@ Python ile geliştirilen bir arayüz çalışması. (Yapım aşamasında 🚧)
 
 ### 🛠️ Yetkinlikler & Araçlar
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-v8-brightgreen?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+[![SimCity Projem](https://img.shields.io/badge/PROJE-SimCity--Simulation-orange?style=for-the-badge&logo=game-developer&logoColor=white)](https://github.com/gLobalDev0/SimCity-)
 
 ---
 *"Öğrenmeye ve projelerimi geliştirmeye devam ediyorum."*
