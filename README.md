@@ -4,12 +4,19 @@ Teknoloji serüvenine bir yıl önce Python ile adım atıp C eğitimiyle temell
 
 -  **Şu an ne yapıyorum?**
 
--  **Nelerle ilgilendim?**
--  **YOLO,OpenCV** IHA havadayken imx708 kamera ile figurlerin  kose sayimi ni ve renk ayiklamasini yapaparak hedef tespit edip yuk birakma  raspberrypi 5 ile  . 
--  **Hava savunma sistemleri arayuzu** Python kullanarak Hava Savunma Sistemi simülasyon arayüzü üzerine çalışmam.
-- **Linux:** Temel sistem yönetimi ve terminal kullanımı.
-- **ROS & QML:** İnsansız sistemlerin çalışma mantığı ve QGroundControl özelleştirme denemeleri.
-- 🌱 **Hedefim:** Savunma teknolojileri ve yer kontrol istasyonları alanında kendimi geliştirmeye devam etmek.
+Teknik Yetkinlikler & Projeler
+
+  **Görüntü İşleme & Otonom Sistemler (YOLO & OpenCV)**: * Raspberry Pi 5 ve IMX708 kamera kullanarak, hava platformları üzerinden gerçek zamanlı hedef tespiti.
+
+        Renk ayıklama ve geometrik (köşe sayımı) analizlerle figürlerin tanımlanması ve hedefe yönelik otonom yük bırakma algoritmalarının geliştirilmesi.
+
+  **Hava Savunma Sistemleri (HSS) Arayüzü**: * Python kullanarak, karmaşık veri akışlarını yöneten ve operasyonel süreçleri görselleştiren Hava Savunma Sistemi simülasyon arayüzü tasarımı.
+
+  **ROS & QML**: Sistemlerin çalışma mantığı üzerine çalışmalar ve QGroundControl (QGC) üzerinde kullanıcı ihtiyaçlarına yönelik özelleştirme denemeleri.
+
+  **Linux**: * Gömülü sistemler için temel sistem yönetimi, terminal üzerinden süreç kontrolü ve yapılandırma.
+
+**🌱 Hedefim**: Savunma teknolojileri, Yer Kontrol İstasyonları (YKİ) ve otonom görev sistemleri alanında kendimi geliştirerek yenilikçi çözümler üretmek.
 
 ---
 
