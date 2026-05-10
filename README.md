@@ -1,11 +1,12 @@
 # Selam, ben Gullu Javadli! 👋
 
-###  İnsansız Sistemler & Arayüz 
-Teknoloji yolculuğuma bir yıl önce Python ile başladım. Karmaşık sistemlerin kullanıcıyla buluştuğu "arayüz" dünyasına ve savunma sanayii teknolojilerine ilgi duyuyorum.
+
+Teknoloji yolculuğuma bir yıl önce Python ile başladım. Karmaşık sistemlerin kullanıcıyla buluştuğu "arayüz" dünyasına ve YOLO OpenCV ile görüntü ısleme projelerı uzerınde calsııyorum
 
 -  **Şu an ne yapıyorum?**
 
--  **Nelerle ilgilendim?** - **Python & GUI:** Uygulama geliştirme ve arayüz mantığı.
+-  **Nelerle ilgilendim?**
+-  **YOLO,OpenCV** IHA havadayken imx708 kamera ile figurlerin  kose sayimi ni ve renk ayiklamasini yapaparak hedef tespit edip yuk birakma  raspberrypi 5 ile  . 
 -  **Hava savunma sistemleri arayuzu** Python kullanarak Hava Savunma Sistemi simülasyon arayüzü üzerine çalışmam.
 - **Linux:** Temel sistem yönetimi ve terminal kullanımı.
 - **ROS & QML:** İnsansız sistemlerin çalışma mantığı ve QGroundControl özelleştirme denemeleri.
