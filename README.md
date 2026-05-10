@@ -1,7 +1,6 @@
 # Selam, ben Gullu Javadli! 👋
 
-
-Teknoloji yolculuğuma bir yıl önce Python ile başladım. Karmaşık sistemlerin kullanıcıyla buluştuğu "arayüz" dünyasına ve YOLO OpenCV ile görüntü ısleme projelerı uzerınde calsııyorum
+Teknoloji serüvenine bir yıl önce Python ile adım atıp C eğitimiyle temellerimi sağlamlaştırdım; bugün ise karmaşık sistemleri kullanıcıyla buluşturan 'arayüz' dünyasında, İHA projeleri için YOLO ve OpenCV destekli görüntü işleme algoritmaları geliştiriyor ve Raylib tabanlı kapsamlı bir şehir simülasyonu inşa ediyorum.
 
 -  **Şu an ne yapıyorum?**
 
@@ -14,11 +13,17 @@ Teknoloji yolculuğuma bir yıl önce Python ile başladım. Karmaşık sistemle
 
 ---
 
-### 🚀 Öne Çıkan Projem
+###  Öne Çıkan Arayüz Projem
 #### [Air Defense System Interface](https://github.com/gLobalDev0/air-defence-system-interface)
 Python ile geliştirilen bir arayüz çalışması. (Yapım aşamasında 🚧)
 
 ---
+##   Öne Çıkan Simcity oyun Projem  
+#### []
+(Gelişim aşamasında 🚧)
+
+---
+
 
 ### 🛠️ Yetkinlikler & Araçlar
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
