@@ -2,7 +2,7 @@
 
 Teknoloji serüvenine bir yıl önce Python ile adım atıp C eğitimiyle temellerimi sağlamlaştırdım; bugün ise karmaşık sistemleri kullanıcıyla buluşturan 'arayüz' dünyasında, İHA projeleri için YOLO ve OpenCV destekli görüntü işleme algoritmaları geliştiriyor ve Raylib tabanlı kapsamlı bir şehir simülasyonu inşa ediyorum.
 
--  **Şu an ne yapıyorum?**
+
 
 Teknik Yetkinlikler & Projeler
 
