@@ -26,7 +26,7 @@ Python ile geliştirilen bir arayüz çalışması. (Yapım aşamasında 🚧)
 ---
 ##   Öne Çıkan Simcity oyun Projem  
 #### [SIMCITY](https://github.com/gLobalDev0/SimCity-)
-(Gelişim aşamasında 🚧)
+C dili ile geliştirdiyim bir arayüz çalışmam(Gelişim aşamasında 🚧)
 
 ---
 ## OpenCv ve YOLO hedef tespit
