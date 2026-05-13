@@ -41,7 +41,6 @@ C dili ile geliştirdiyim bir arayüz çalışmam(Gelişim aşamasında 🚧)
 ![YOLO](https://img.shields.io/badge/YOLO-v8-brightgreen?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 [![SimCity Projem](https://img.shields.io/badge/PROJE-SimCity--Simulation-orange?style=for-the-badge&logo=game-developer&logoColor=white)](https://github.com/gLobalDev0/SimCity-)
 
