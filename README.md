@@ -7,8 +7,7 @@ Teknoloji serüvenine bir yıl önce Python ile adım atıp C eğitimiyle temell
 Teknik Yetkinlikler & Projeler
 
   **Görüntü İşleme & Otonom Sistemler (YOLO & OpenCV)**: * Raspberry Pi 5 ve IMX708 kamera kullanarak, hava platformları üzerinden gerçek zamanlı hedef tespiti.
-
-        Renk ayıklama ve geometrik (köşe sayımı) analizlerle figürlerin tanımlanması ve hedefe yönelik otonom yük bırakma algoritmalarının geliştirilmesi.
+   Renk ayıklama ve geometrik (köşe sayımı) analizlerle figürlerin tanımlanması ve hedefe yönelik otonom yük bırakma algoritmalarının geliştirilmesi.
 
   **Hava Savunma Sistemleri (HSS) Arayüzü**: * Python kullanarak, karmaşık veri akışlarını yöneten ve operasyonel süreçleri görselleştiren Hava Savunma Sistemi simülasyon arayüzü tasarımı.
 
