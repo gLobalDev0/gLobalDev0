@@ -34,6 +34,11 @@ C dili ile geliştirdiyim bir arayüz çalışmam(Gelişim aşamasında 🚧)
 (Tamamlanmak uzere bir proje)
 
 ---
+## KiCad LLM entegrasyon 
+#### [Plugin](https://github.com/gLobalDev0/plugins)
+python dilli projem
+
+---
 ### 🛠️ Yetkinlikler & Araçlar
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
