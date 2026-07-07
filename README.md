@@ -15,7 +15,6 @@ Teknik Yetkinlikler & Projeler
 
   **Linux**: * Gömülü sistemler için temel sistem yönetimi, terminal üzerinden süreç kontrolü ve yapılandırma.
 
-**🌱 Hedefim**: Savunma teknolojileri, Yer Kontrol İstasyonları (YKİ) ve otonom görev sistemleri alanında kendimi geliştirerek yenilikçi çözümler üretmek.
 
 ---
 
